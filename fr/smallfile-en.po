@@ -2,6 +2,10 @@
 msgid "A screenshot of a website using AMP."
 msgstr "A screenshot of a website using AMP."
 
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:24
+msgid "A screenshot of a website using AMMMMMMP."
+msgstr "A screenshot of a website using AMMMMMMP."
+
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
 msgstr "A screenshot showing amp-sidebar."
