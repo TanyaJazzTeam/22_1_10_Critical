@@ -1,7 +1,7 @@
 
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:24
 msgid "A screenshot of a website using AMMMMMMP."
-msgstr "Uma captura de tela de um site usando AMMMMMMP."
+msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
